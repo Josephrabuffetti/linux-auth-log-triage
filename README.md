@@ -1,6 +1,6 @@
 # Linux Authentication Log Triage
 
-A small Python command-line tool that reads Linux OpenSSH authentication logs and surfaces login patterns worth a human review. It is designed as a learning project for log parsing, security triage, and defensive monitoring.
+A small Python command-line tool that reads Linux OpenSSH authentication logs and surfaces login patterns worth human review. It is designed as a learning project for log parsing, security triage, and defensive monitoring.
 
 ## What it does
 
