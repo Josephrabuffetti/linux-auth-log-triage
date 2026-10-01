@@ -1,0 +1,8 @@
+Oct  1 09:14:02 lab-vm sshd[2041]: Failed password for invalid user admin from 203.0.113.44 port 50101 ssh2
+Oct  1 09:15:11 lab-vm sshd[2042]: Failed password for invalid user test from 203.0.113.44 port 50102 ssh2
+Oct  1 09:16:08 lab-vm sshd[2043]: Failed password for student from 203.0.113.44 port 50103 ssh2
+Oct  1 09:17:32 lab-vm sshd[2044]: Failed password for student from 203.0.113.44 port 50104 ssh2
+Oct  1 09:18:06 lab-vm sshd[2045]: Failed password for student from 203.0.113.44 port 50105 ssh2
+Oct  1 09:19:20 lab-vm sshd[2046]: Accepted publickey for labuser from 203.0.113.44 port 50106 ssh2
+Oct  1 10:02:13 lab-vm sshd[2100]: Accepted publickey for analyst from 192.0.2.18 port 50444 ssh2
+Oct  1 10:05:44 lab-vm sshd[2105]: pam_unix(sshd:session): session opened for user analyst
